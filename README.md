@@ -2,12 +2,12 @@
 ###to understand the git and git hub
 
 
-**Team members**
+*Team members*
 - shauraya
 - daksh
 - sumit
 
- **Team stack**
-- Aayush
-- sumit
-- 
+ *Team stack*
+- HTML
+- css
+- java
